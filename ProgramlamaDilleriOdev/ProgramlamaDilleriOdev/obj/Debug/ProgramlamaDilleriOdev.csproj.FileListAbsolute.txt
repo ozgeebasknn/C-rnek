@@ -1,0 +1,24 @@
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\bin\Debug\ProgramlamaDilleriOdev.exe.config
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\bin\Debug\ProgramlamaDilleriOdev.exe
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\bin\Debug\ProgramlamaDilleriOdev.pdb
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.csprojAssemblyReference.cache
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.frmGiris.resources
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.frmMusteri.resources
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.Properties.Resources.resources
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.csproj.GenerateResource.cache
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.csproj.CoreCompileInputs.cache
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.exe
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.pdb
+C:\Users\ozgeb\source\repos\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.frmPersonel.resources
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\bin\Debug\ProgramlamaDilleriOdev.exe.config
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\bin\Debug\ProgramlamaDilleriOdev.exe
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\bin\Debug\ProgramlamaDilleriOdev.pdb
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.csprojAssemblyReference.cache
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.frmGiris.resources
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.frmMusteri.resources
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.frmPersonel.resources
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.Properties.Resources.resources
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.csproj.GenerateResource.cache
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.csproj.CoreCompileInputs.cache
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.exe
+C:\Users\ozgeb\OneDrive\Masaüstü\DERS\2. sınıf 2. dönem\ProgramlamaDilleriOdev\ProgramlamaDilleriOdev\obj\Debug\ProgramlamaDilleriOdev.pdb
